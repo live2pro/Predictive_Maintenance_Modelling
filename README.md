@@ -8,7 +8,7 @@ This project is demonstration of a real-time predictive maintenance model applic
 
   + With the given time-series data, generate simulated data using the ["block bootstrap"](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf) method.
   
-  + Post simulated data to Google Cloud Function end point
+  + Post simulated data to Google Cloud Function end points
 
 + A set of Google Cloud Function to do the following: (In Progress)
 
